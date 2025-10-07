@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Rathi</h1>
 <h3 align="center"> A Passionate Frontend Developer and Enthusiast of Emerging Technologies</h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Himanshur25&label=Profile%20views&color=0e75b6&style=flat" alt="Himanshur25" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Himanshu-25&label=Profile%20views&color=0e75b6&style=flat" alt="Himanshur25" /> </p>
 Although I am a Frontend Developer, I am always eager to learn new technologies emerging worldwide. I am ready to tackle any challenges that help me improve my skills. I have created many projects, such as a restaurant website and a job portal, and I am prepared to apply my skills to upcoming, complex projects.<br/>
 
 <h2>My ultimate aim is to :-<b> Learn and Grow.</b></h2>

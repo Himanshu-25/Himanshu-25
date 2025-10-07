@@ -1,24 +1,81 @@
 <h1 align="center">Hi 👋, I'm Himanshu Rathi</h1>
-<h3 align="center"> A Passionate Frontend Developer and Enthusiast of Emerging Technologies</h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Himanshu-25&label=Profile%20views&color=0e75b6&style=flat" alt="Himanshur25" /> </p>
-Although I am a Frontend Developer, I am always eager to learn new technologies emerging worldwide. I am ready to tackle any challenges that help me improve my skills. I have created many projects, such as a restaurant website and a job portal, and I am prepared to apply my skills to upcoming, complex projects.<br/>
+<h3 align="center">Frontend Developer | Passionate about Emerging Technologies</h3>
 
-<h2>My ultimate aim is to :-<b> Learn and Grow.</b></h2>
-<i><q>Make it work, make it right, make it fast.</q></i>
-
-- 🔭 I’m currently learning **NodeJS**
-
-- 👯 I’m looking to collaborate on **Frontend Technologies**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/himanshu-rathi-5882b9208/" target="blank"><img align="center" src="https://img.icons8.com/color/256/linkedin-2.png" alt="Himanshu" height="30" width="35" /></a>
-<a href="https://www.instagram.com/the_himanshu_rathi/" target="blank"><img align="center" src="https://imgs.search.brave.com/eVSFasqi3fuHIiGloWi3Tjz6nU3vyM68DQryVhVFj5g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAyMS8x/MC8yNC8yMS8yMy9p/bnN0YWdyYW0tNjcz/OTMzNV82NDAuanBn" alt="the_himanshu_rathi" height="40" width="50" /></a>
- <a href="mailto:himanshu25rathi@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" height="30" width="35" /></a>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Himanshu-25&label=Profile%20views&color=0e75b6&style=flat" alt="Himanshu-25 " />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### About Me
+I am a dedicated Frontend Developer with a strong passion for learning and implementing emerging technologies. I have experience building projects like restaurant websites and job portals, and I constantly seek opportunities to tackle challenging projects that help me grow my skills.  
+
+> _"Make it work, make it right, make it fast."_  
+
+- 🔭 Currently expanding my backend skills with **Node.js**  
+- 👯 Interested in collaborating on **Frontend and Full-Stack projects**  
+- 🌱 Always learning and exploring **new technologies**  
+
+---
+
+### Connect with Me
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.e1d424c4b9be7009dd57ef4e7d58e343?rik=EZ8NO5x85jZ0Vg&riu=http%3a%2f%2f1.bp.blogspot.com%2f-NGHwBncyA68%2fUiMm_8b2ZUI%2fAAAAAAAAAnA%2f17OGXCKI4zE%2fs1600%2fLogo%2bHTML5.JPG&ehk=rnVe3RUksYQ4LMnsZ6Xxyf3F5lkj3Br1Eu6vOVCkYh0%3d&risl=&pid=ImgRaw&r=0" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/200666631/0060c080-d060-11ea-9698-98d89d68fc6d" alt="javascript" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://mythinkpond.com/img/logo/tailwindcss-logo.png" alt="tailwind" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/410214337/070f2aba-d9d6-4699-b887-9a0f29015b1b" alt="react" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" alt="typescript" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.devteam.space/wp-content/uploads/2022/05/nodejs.jpg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/53sN_pAepxR7rT4dwgP1G4Ssu6HRUcHaFbw6kEqCbfI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZGUvdGh1bWIv/ZC9kZC9NeVNRTF9s/b2dvLnN2Zy8yNTBw/eC1NeVNRTF9sb2dv/LnN2Zy5wbmc" alt="mysql" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://styles.redditmedia.com/t5_2qi27/styles/communityIcon_c6mtvgj38ki31.jpg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>   </p>
+  <a href="https://www.linkedin.com/in/himanshu-rathi-5882b9208/" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="35"/>
+  </a>
+  <a href="https://www.instagram.com/the_himanshu_rathi/" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="30" width="35"/>
+  </a>
+  <a href="mailto:himanshu25rathi@gmail.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="30" width="35"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Himanshur25&show_icons=true&locale=en&layout=compact" alt="himanshur25" /></p>
+---
 
+### Skills & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://th.bing.com/th/id/OIP.mFNmwiH8FJ-xUN1RXj-o-wHaDt?w=339&h=274&c=7&r=0&o=7&cb=12&dpr=2&pid=1.7&rm=3" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
+</p>
+
+---
+
+### Featured Projects
+- [Restaurant Website](https://github.com/Himanshur25/restaurant-website) – Responsive web app built with React, Tailwind CSS, and Node.js backend.  
+- [Job Portal](https://github.com/Himanshur25/job-portal) – Full-stack job application platform using React, Node.js, and MySQL.  
+- [Portfolio Dashboard](https://github.com/Himanshur25/portfolio-dashboard) – Interactive dashboard showcasing projects and GitHub stats.  
+
+---
+
+### Currently Learning
+- Advanced **Node.js** concepts and RESTful APIs  
+- Advanced **TypeScript** for scalable, maintainable projects  
+- Modern frontend architectures  
+
+---
+
+### Fun Fact
+- I enjoy exploring emerging tech trends and experimenting with new frameworks.  
+- Coffee keeps my code running ☕  
+
+---
+
+### GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Himanshur25&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshur25&show_icons=true&theme=default" alt="GitHub Stats"/>
+</p>
